@@ -112,9 +112,6 @@ Aggregated trends help understand long-term patterns
 
 Clone the repository
 
-git clone https://github.com/your-username/child-labour-analysis.git
-
-
 Install required libraries
 
 pip install pandas numpy matplotlib seaborn
